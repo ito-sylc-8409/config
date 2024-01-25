@@ -5,7 +5,7 @@ label: gitops
 replicas: 3
 image:
   repository: docker.io/itosylc6245/gitops-go-app
-  tag: 51
+  tag: 52
 
 imageConfig:
   pullPolicy: IfNotPresent
